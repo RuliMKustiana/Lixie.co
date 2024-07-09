@@ -1,6 +1,7 @@
-# shopping
+# Lixie.Co
 
-A new Flutter project.
+Aplikasi Lixie.Co merupakan aplikasi e-comerce T-shirt yang menyediakan berbagai pakaian dari 1 brand.
+aplikasi ini baru dalam tahap UI dan Hanya memiliki fitur tambah product dan checkout.
 
 ## Getting Started
 
